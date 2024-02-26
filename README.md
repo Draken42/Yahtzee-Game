@@ -8,7 +8,7 @@ You can only score each category once per game, and if you have more than 63 poi
 
 
 <p align="center">
-  <img width="460" height="300" src="file:///C:/Users/414647/Downloads/y.pdf">
+  <img width="460" height="300" src="https://www.papertraildesign.com/wp-content/uploads/2020/12/Yahtzee-Score-Card-single.jpg">
 </p>
 
 
