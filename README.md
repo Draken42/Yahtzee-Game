@@ -7,7 +7,7 @@ Yahtzee is a game where you roll 5 dice and you score points based on how many/w
 You can only score each category once per game, and if you have more than 63 points on the "upper category", you get an extra 35 points. 
 
 <p align="center">
-  <img src="https://www.papertraildesign.com/wp-content/uploads/2020/12/Yahtzee-Score-Card-single.jpg">
+  <img width="50%" height="50%" src="https://www.papertraildesign.com/wp-content/uploads/2020/12/Yahtzee-Score-Card-single.jpg">
 </p>
 
 # Gameplay
