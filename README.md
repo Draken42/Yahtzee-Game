@@ -7,8 +7,10 @@ Yahtzee is a game where you roll 5 dice and you score points based on how many/w
 You can only score each category once per game, and if you have more than 63 points on the "upper category", you get an extra 35 points. 
 
 
+<p align="center">
+  <img width="460" height="300" src="https://picsum.photos/460/300](https://github.com/Draken42/Yahtzee-Game/assets/126243150/82b856f3-ad6f-42cb-8162-6476a66b5632">
+</p>
 
-![image](https://github.com/Draken42/Yahtzee-Game/assets/126243150/82b856f3-ad6f-42cb-8162-6476a66b5632)
 
 
 
