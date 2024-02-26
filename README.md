@@ -8,7 +8,7 @@ You can only score each category once per game, and if you have more than 63 poi
 
 
 <p align="center">
-  <img width="460" height="300" src="https://picsum.photos/460/300](https://github.com/Draken42/Yahtzee-Game/assets/126243150/82b856f3-ad6f-42cb-8162-6476a66b5632">
+  <img width="460" height="300" src="file:///C:/Users/414647/Downloads/y.pdf">
 </p>
 
 
